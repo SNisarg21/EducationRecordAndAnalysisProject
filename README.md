@@ -1,4 +1,4 @@
-# Education Record And Analysis
+# Education - Grade Records and Analysis 
 <h4>In education institutes where relative grading is used & graphical analysis of the record.</h4>
 
 <h3>Programming Language : Python</h3>
